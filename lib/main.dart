@@ -28,7 +28,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return GetMaterialApp(
-      title: 'Fagim টিকেট',
+      title: 'Fahim টিকেট',
       debugShowCheckedModeBanner: false,
       theme: Variables.themeData,
       home: const SplashScreen(),
